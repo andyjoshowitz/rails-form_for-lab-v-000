@@ -1,2 +1,2 @@
-class StudentController < ActionController::Base
+class StudentsController < ActionController::Base
 end
