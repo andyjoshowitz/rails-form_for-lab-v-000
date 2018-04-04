@@ -27,4 +27,3 @@ class SchoolClassesController < ApplicationController::Base
 	end
 end
 
-end
