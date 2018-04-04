@@ -26,4 +26,3 @@ class SchoolClassesController < ApplicationController::Base
 	  redirect_to school_class_path(@school_class)
 	end
 end
-
